@@ -1,0 +1,17 @@
+{
+    "s31368": {
+        "Running": {
+            "name": "Running",
+            "frequency": "Daily",
+            "habit_type": "Good",
+            "dates_completed": []
+        },
+        "Smoking": {
+            "name": "Smoking",
+            "frequency": "Daily",
+            "habit_type": "Bad",
+            "dates_completed": []
+        }
+    },
+    "Selim Vural": {}
+}
